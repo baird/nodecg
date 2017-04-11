@@ -5,9 +5,9 @@
   "version": "0.8.9",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodecg/nodecg.git"
+    "url": "https://github.com/baird/nodecg.git"
   },
-  "bugs": "https://github.com/nodecg/nodecg/issues",
+  "bugs": "https://github.com/baird/nodecg/issues",
   "license": "MIT",
   "dependencies": {
     "@nodecg/bundle-manager": "^0.5.3",
